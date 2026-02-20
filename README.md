@@ -5,6 +5,12 @@ This platform highlights various digital products (e.g., courses, e-books, templ
 
 ---
 
+## 🚀 Live Demo
+👉 [**Click Here to View Live Demo**](https://niloufar-dev.github.io/digital-product-website/src/index.html)  
+
+---
+
+
 ## 🔥 Preview Project
 Here’s a sneak peek of the final design 👇  
 
@@ -14,14 +20,9 @@ Here’s a sneak peek of the final design 👇
 <img width="1886" height="894" alt="Screenshot 2026-02-20 153143" src="https://github.com/user-attachments/assets/4fb583fd-2d8a-4d07-8867-2bead9523398" />
 
 
-> 🖼️ Remember to replace the placeholder image paths with actual screenshots or a short demo GIF of your digital product layout!
+>
 
----
 
-## 🚀 Live Demo
-👉 [**Click Here to View Live Demo**](https://niloufar-dev.github.io/digital-product-website/src/index.html)  
-
----
 
 ## 🌟 Features
 - 💎 **Product Cards** – Highlighting key features, price, and rating for each digital item
